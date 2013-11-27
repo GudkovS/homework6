@@ -1648,3 +1648,13 @@ div.admin-panel .description {
 #footer-wrapper .poll .bar .foreground {
   background-color: #ddd;
 }
+
+/* Gudkov */
+.page-student-list #page tr:hover {
+    background-color: #bbbb93;
+}
+
+.page-student-list #page td:hover {
+    background-color: #b3bb44;
+}
+
